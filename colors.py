@@ -1,5 +1,3 @@
-red
-
 RED                   = 'red'
 RED1                  = 'red-1'
 RED1                  = 'red-2'
@@ -17,7 +15,7 @@ RED1                  = 'red-13'
 RED1                  = 'red-14'
 
 
-#pink
+
 
 PINK                  ='pink'
 PINK1                 ='pink-1'
@@ -35,7 +33,7 @@ PINK1                 ='pink-12'
 PINK1                 ='pink-13'
 PINK1                 ='pink-14'
 
-#purple
+
 
 PURPLE                = 'purple'
 PURPLE1               = 'purple-1'
@@ -53,7 +51,6 @@ PURPLE1               = 'purple-12'
 PURPLE1               = 'purple-13'
 PURPLE1               = 'purple-14'
 
-#deep-purple
 
 DEEP_PURPLE           = 'deep-purple'
 DEEP_PURPLE1          = 'deep-purple-1'
@@ -71,7 +68,7 @@ DEEP_PURPLE1          = 'deep-purple-12'
 DEEP_PURPLE1          = 'deep-purple-13'
 DEEP_PURPLE1          = 'deep-purple-14'
       
-#indigo
+
 
 INDIGO                = 'indigo'
 INDIGO1               = 'indigo-1'
@@ -89,7 +86,7 @@ INDIGO1               = 'indigo-12'
 INDIGO1               = 'indigo-13'
 INDIGO1               = 'indigo-14'
 
-#blue
+
 
 BLUE                  = 'blue-1'
 BLUE1                 = 'blue-2'
@@ -106,7 +103,7 @@ BLUE1                 = 'blue-12'
 BLUE1                 = 'blue-13'
 BLUE1                 = 'blue-14'
 
-#light-blue
+
 
 LIGHT_BLUE            = 'light-blue'
 LIGHT_BLUE1           = 'light-blue-1'
@@ -124,7 +121,7 @@ LIGHT_BLUE1           = 'light-blue-12'
 LIGHT_BLUE1           = 'light-blue-13'
 LIGHT_BLUE1           = 'light-blue-14'
 
-#cyan
+
 
 
 CYAN                 = 'cyan'
@@ -143,7 +140,6 @@ CYAN1                = 'cyan-12'
 CYAN1                = 'cyan-13'
 CYAN1                = 'cyan-14'
 
-teal
 
 TEAL1                = 'teal'
 TEAL1                = 'teal-1'
@@ -161,7 +157,7 @@ TEAL1                = 'teal-12'
 TEAL1                = 'teal-13'
 TEAL1                = 'teal-14'
 
-green
+
 
 
 GREEN1              ='green'
@@ -180,9 +176,9 @@ GREEN1              ='green-12'
 GREEN1              ='green-13'
 GREEN1              ='green-14'
 
-LIGHT_GREEN1
 
-LIGHT_GREEN         ='light-green
+
+LIGHT_GREEN         ='light-green'
 LIGHT_GREEN1        ='light-green-1'
 LIGHT_GREEN1        ='light-green-2'
 LIGHT_GREEN1        ='light-green-3'
@@ -199,7 +195,7 @@ LIGHT_GREEN1        ='light-green-13'
 LIGHT_GREEN1        ='light-green-14'
 
 
-    lime
+
 
 
 LIME                = 'lime'
@@ -219,7 +215,6 @@ LIME1               = 'lime-13'
 LIME1               = 'lime-14'
 
 
-    yellow
 
 
 YELLOW              = 'yellow'
@@ -239,7 +234,7 @@ YELLOW1             = 'yellow-13'
 YELLOW1             = 'yellow-14'
 
 
-    amber
+
 
 AMBER1              = 'amber'
 AMBER1              = 'amber-1'
@@ -258,113 +253,109 @@ AMBER1              = 'amber-13'
 AMBER1              = 'amber-14'
 
 
-#orange
 
-ORANGE1             = 'orange'
+
+ORANGE             = 'orange'
 ORANGE1             = 'orange-1'
-ORANGE1             = 'orange-2'
-ORANGE1             = 'orange-3'
-ORANGE1             = 'orange-4'
-ORANGE1             = 'orange-5'
-ORANGE1             = 'orange-6'
-ORANGE1             = 'orange-7'
-ORANGE1             = 'orange-8'
-ORANGE1             = 'orange-9'
-ORANGE1             = 'orange-10'
-ORANGE1             = 'orange-11'
-ORANGE1             = 'orange-12'
-ORANGE1             = 'orange-13'
-ORANGE1             = 'orange-14'
+ORANGE2             = 'orange-2'
+ORANGE3             = 'orange-3'
+ORANGE4             = 'orange-4'
+ORANGE5             = 'orange-5'
+ORANGE6             = 'orange-6'
+ORANGE7             = 'orange-7'
+ORANGE8             = 'orange-8'
+ORANGE9             = 'orange-9'
+ORANGE10             = 'orange-10'
+ORANGE11             = 'orange-11'
+ORANGE12             = 'orange-12'
+ORANGE13             = 'orange-13'
+ORANGE14             = 'orange-14'
 
-
-    deep-orange
-
-    deep-orange'
-    deep-orange-1'
-    deep-orange-2'
-    deep-orange-3'
-    deep-orange-4'
-    deep-orange-5'
-    deep-orange-6'
-    deep-orange-7'
-    deep-orange-8'
-    deep-orange-9'
-    deep-orange-10'
-    deep-orange-11'
-    deep-orange-12'
-    deep-orange-13'
-    deep-orange-14'
-
-
-    brown
-
-    brown'
-    brown-1'
-    brown-2'
-    brown-3'
-    brown-4'
-    brown-5'
-    brown-6'
-    brown-7'
-    brown-8'
-    brown-9'
-    brown-10'
-    brown-11'
-    brown-12'
-    brown-13'
-    brown-14'
+DEEP_ORANGE     = 'deep-orange'
+DEEP_ORANGE1    = 'deep-orange-1'
+DEEP_ORANGE2    = 'deep-orange-2'
+DEEP_ORANGE3    = 'deep-orange-3'
+DEEP_ORANGE4    = 'deep-orange-4'
+DEEP_ORANGE5    = 'deep-orange-5'
+DEEP_ORANGE6    = 'deep-orange-6'
+DEEP_ORANGE7    = 'deep-orange-7'
+DEEP_ORANGE8    = 'deep-orange-8'
+DEEP_ORANGE9    = 'deep-orange-9'
+DEEP_ORANGE10   = 'deep-orange-10'
+DEEP_ORANGE11   = 'deep-orange-11'
+DEEP_ORANGE12   = 'deep-orange-12'
+DEEP_ORANGE13   = 'deep-orange-13'
+DEEP_ORANGE14   = 'deep-orange-14'
 
 
 
-    grey
 
-
-    grey'
-    grey-1'
-    grey-2'
-    grey-3'
-    grey-4'
-    grey-5'
-    grey-6'
-    grey-7'
-    grey-8'
-    grey-9'
-    grey-10'
-    grey-11'
-    grey-12'
-    grey-13'
-    grey-14'
-
-
-
-    blue-grey
+BROWN    =    'brown'
+BROWN1   =    'brown-1'
+BROWN2   =    'brown-2'
+BROWN3   =    'brown-3'
+BROWN4   =    'brown-4'
+BROWN5   =    'brown-5'
+BROWN6   =    'brown-6'
+BROWN7   =    'brown-7'
+BROWN8   =    'brown-8'
+BROWN9   =    'brown-9'
+BROWN10  =    'brown-10'
+BROWN11  =    'brown-11'
+BROWN12  =    'brown-12'
+BROWN13  =    'brown-13'
+BROWN14  =    'brown-14'
 
 
 
-    blue-grey'
-    blue-grey-1'
-    blue-grey-2'
-    blue-grey-3'
-    blue-grey-4'
-    blue-grey-5'
-    blue-grey-6'
-    blue-grey-7'
-    blue-grey-8'
-    blue-grey-9'
-    blue-grey-10'
-    blue-grey-11'
-    blue-grey-12'
-    blue-grey-13'
-    blue-grey-14'
+
+GREY     =  'grey'
+GREY1    =  'grey-1'
+GREY2    =  'grey-2'
+GREY3    =  'grey-3'
+GREY4    =  'grey-4'
+GREY5    =  'grey-5'
+GREY6    =  'grey-6'
+GREY7    =  'grey-7'
+GREY8    =  'grey-8'
+GREY9    =  'grey-9'
+GREY10   =  'grey-10'
+GREY11   =  'grey-11'
+GREY12   =  'grey-12'
+GREY13   =  'grey-13'
+GREY14   =  'grey-14'
 
 
 
 
 
-primary='#5898d4',
-secondary='#26a69a',
-accent='#9c27b0',
-positive='#21ba45',
-negative='#c10015',
-info='#31ccec',
-warning='#f2c037'
+
+
+BLUE_GREY   =  'blue-grey'
+BLUE_GREY1   =  'blue-grey-1'
+BLUE_GREY2   =  'blue-grey-2'
+BLUE_GREY3   =  'blue-grey-3'
+BLUE_GREY4   =  'blue-grey-4'
+BLUE_GREY5   =  'blue-grey-5'
+BLUE_GREY6   =  'blue-grey-6'
+BLUE_GREY7   =  'blue-grey-7'
+BLUE_GREY8   =  'blue-grey-8'
+BLUE_GREY9   =  'blue-grey-9'
+BLUE_GREY10   =  'blue-grey-10'
+BLUE_GREY11   =  'blue-grey-11'
+BLUE_GREY12   =  'blue-grey-12'
+BLUE_GREY13   =  'blue-grey-13'
+BLUE_GREY14   =  'blue-grey-14'
+
+
+
+
+
+
+PRIMARY   ='#5898d4',
+SECONDARY ='#26a69a',
+ACCENT    ='#9c27b0',
+POSITIVE  ='#21ba45',
+NEGATIVE  ='#c10015',
+INFO      ='#31ccec',
+WARNING   ='#f2c037'
